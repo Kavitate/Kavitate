@@ -19,4 +19,4 @@
 
 ### 👨🏽‍💻 Tryhackme
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/mjack360.png?8" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kavitate.png" alt="TryHackMe">
