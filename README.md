@@ -20,3 +20,5 @@
 ### 👨🏽‍💻 Tryhackme
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Kavitate.png" alt="TryHackMe">
+
+![](https://komarev.com/ghpvc/?username=kavitate&style=plastic)
