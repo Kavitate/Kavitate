@@ -17,6 +17,10 @@
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label="></a>
 </p>
 
+### 💫 Community
+
+Please feel free to join my Discord server [here](https://discord.gg/mJBF9jXb42)
+
 ### 👨🏽‍💻 Tryhackme
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Kavitate.png" alt="TryHackMe">
