@@ -19,7 +19,7 @@
 
 ### 💫 Community
 
-Please feel free to join my Discord server [here](https://discord.gg/mJBF9jXb42)
+Please feel free to join my Discord server [here](https://discord.gg/mJBF9jXb42).
 
 ### 👨🏽‍💻 Tryhackme
 
