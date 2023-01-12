@@ -6,7 +6,7 @@
     <a href="#"><img alt="Java" src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=222222&logo=Java&logoColor=F7DF1E&label="></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="></a>
 
-### 💻 Software and Tools
+### 💻 Software
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/static/v1?style=for-the-badge&message=Adobe&color=FF0000&logo=Adobe&logoColor=FFFFFF&label="></a>
