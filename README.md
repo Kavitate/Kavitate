@@ -1,4 +1,4 @@
-## <picture> <img align=center src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture> <img align=center src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 </p>
 
@@ -24,7 +24,7 @@ me.remember()
 ```
 </p>
 
-## <picture> <img align=center src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Skills and Software
+## <picture> <img align=center src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Skills and Software
 
 [![My Skills](https://skillicons.dev/icons?i=autocad,bots,git,github,java,linux,mysql,powershell,py,raspberrypi,replit,sketchup,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
