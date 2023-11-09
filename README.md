@@ -1,5 +1,5 @@
 ### 💻 Skills and Software
-[![My Skills](https://skillicons.dev/icons?i=autocad,discord,bots,git,github,java,linux,mysql,powershell,py,raspberrypi,replit,sketchup,visualstudio,vscode,wordpress&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=autocad,discord,bots,git,github,java,linux,mysql,powershell,py,raspberrypi,replit,sketchup,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 ### 💫 Community
 
