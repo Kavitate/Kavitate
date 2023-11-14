@@ -32,6 +32,8 @@ me.remember()
 Please feel free to join my Discord server [here](https://discord.gg/mJBF9jXb42).
 
 ## 👨🏽‍💻 Other Stats
-<img align=center height=45 src="https://tryhackme-badges.s3.amazonaws.com/Kavitate.png" alt="TryHackMe"> <img align=center border="0" src="https://wigle.net/bi/HgWA5Qp2y4YGVkVH_BhW3A.png">
+<img align=center height=45 src="https://tryhackme-badges.s3.amazonaws.com/Kavitate.png" alt="TryHackMe"> <a href="https://wigle.net">
+<img align=center border="0" src="https://wigle.net/bi/HgWA5Qp2y4YGVkVH_BhW3A.png">
+</a>
 ---
 <div align="center"> <img align=center src="https://komarev.com/ghpvc/?username=kavitate&style=plastic&color=orange" alt="Profile Views"> </div>
