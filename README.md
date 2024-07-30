@@ -11,9 +11,8 @@
         self.location = "U.S"
         self.education = "Bachelor of Science in Cyber & Data Security"
         self.currently_learning = "Everything related to OSINT"
-        self.working_on = ["Wardriving", "Discord_Bots", "Flipper_Zero", "AI", "Everything_In_Between"]
+        self.working_on = ["Meshtastic", "Wardriving", "Discord_Bots", "Flipper_Zero", "AI", "Everything_In_Between"]
         self.pi_projects = ["Wardriving_Rig", "RetroPie", "Honeypot"]
-        self.stay = "Strapped"
 
 me = Tinkerer()
 ```
