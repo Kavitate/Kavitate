@@ -15,12 +15,7 @@
         self.pi_projects = ["Wardriving_Rig", "RetroPie", "Honeypot"]
         self.stay = "Strapped"
 
-    def remember(self):
-        print("Your false sense of privacy is my playground.")
-
-
 me = Tinkerer()
-me.remember()
 ```
 </p>
 
