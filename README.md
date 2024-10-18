@@ -23,7 +23,7 @@ me = Tinkerer()
 [![My Skills](https://skillicons.dev/icons?i=autocad,bots,git,github,java,linux,mysql,powershell,py,raspberrypi,replit,sketchup,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 ## 👨🏽‍💻 Other Stats
-
+<img align=center height=45 src="https://tryhackme-badges.s3.amazonaws.com/Kavitate.png" alt="TryHackMe"> <a href="https://wigle.net">
 <img align=center border="0" src="https://wigle.net/bi/HgWA5Qp2y4YGVkVH_BhW3A.png">
 </a>
 ---
